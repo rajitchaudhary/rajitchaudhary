@@ -1,6 +1,6 @@
 # Rajit-chaudhary
 # 💫 About Me:
-Final-year Computer Science student at Chitkara University.<br> Founded <a href="https://www.elevvia.tech/" target="_blank">Elevvia Tech</a>
+Final-year Computer Science student at Chitkara University.<br> Founder at <a href="https://www.elevvia.tech/" target="_blank">Elevvia Tech</a>
 We offering web development, iOS, and UI/UX design services.<br>I have a strong foundation in iOS and full-stack web development, backed by practical experience from an iOS Developer internship at Infosys, where I contributed to building a hospital management system.<br>I’ve worked on various projects, including an estate management platform with MERN stack, and a college student management system using React.
 
 
