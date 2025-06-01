@@ -1,7 +1,17 @@
 # Rajit-chaudhary
 # 💫 About Me:
 Final-year Computer Science student at Chitkara University.<br> Founder at <a href="https://www.elevvia.tech/" target="_blank">Elevvia Tech</a>
-We offering web development, iOS, and UI/UX design services.<br>I have a strong foundation in iOS and full-stack web development, backed by practical experience from an iOS Developer internship at Infosys, where I contributed to building a hospital management system.<br>I’ve worked on various projects, including an estate management platform with MERN stack, and a college student management system using React.
+We offering web development, iOS, and UI/UX design services.<br>I have a strong foundation in iOS and full-stack web development, backed by practical experience from an iOS Developer internship at Infosys, where I contributed to building a hospital management system.<br> I've worked on various real-world projects, including:
+An estate management platform using the MERN stack. <br>
+A college student management system using React. <br>
+Wynngrid.com  , a platform that connects homeowners with architects and interior designers, streamlining collaboration and project management built using Node.js, postgresSQL and Next.js<br>
+
+Wynngrid link - https://wynngrid.com/   <br>
+
+SensAI – AI-powered career coaching platform is built using Next.js with TypeScript for type safety and scalability. It leverages React.js for UI, Tailwind CSS and ShadCN UI for styling, and integrates Google Gemini API for intelligent resume and cover letter generation. Inngest powers background tasks and workflows, while PostgreSQL ensures robust data management. The platform allows users to generate resumes, cover letters, and career insights using AI, offering a seamless, modern, and intelligent job preparation experience.<br> 
+
+Deployed Link - https://ai-career-coach-lake.vercel.app/ <br>
+
 
 
 ## 🌐 Socials:
