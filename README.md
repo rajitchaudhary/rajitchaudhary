@@ -1,7 +1,11 @@
 # Rajit-chaudhary
 # 💫 About Me:
 Final-year Computer Science student at Chitkara University.<br> Founder at <a href="https://www.elevvia.tech/" target="_blank">Elevvia Tech</a>
-We offering web development, iOS, and UI/UX design services.<br>I have a strong foundation in iOS and full-stack web development, backed by practical experience from an iOS Developer internship at Infosys, where I contributed to building a hospital management system.<br> I've worked on various real-world projects, including:
+We offering web development, iOS, and UI/UX design services.<br>I have a strong foundation in iOS and full-stack web development, backed by practical experience from an iOS Developer internship at Infosys, where I contributed to building a hospital management system. <br>
+
+Portfolio link - <a href="https://worthyjobs-tech.vercel.app/Rajit%20Chaudhary?id=1yRShPqNkuE56BZYg5Yg_JKg-mOz5nGZP" target="_blank">Rajit chaudhary Portfolio</a>. <br>
+
+I've worked on various real-world projects, including: <br>
 An estate management platform using the MERN stack. <br>
 
 A college student management system using React. <br>
