@@ -17,7 +17,7 @@ SensAI Deployed Link - https://ai-career-coach-lake.vercel.app/ <br>
 
 Estatehub - An estate management platform using the MERN stack. <br>
 
-CMS - A college student management system using React. <br>
+CMS - A college management system using React. <br>
 
 
 
